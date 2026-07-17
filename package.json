@@ -20,6 +20,9 @@
     "type": "git",
     "url": "git+https://github.com/daviatorstorm/n8n-nodes-pritset.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "n8n-node build",
     "build:watch": "tsc --watch",

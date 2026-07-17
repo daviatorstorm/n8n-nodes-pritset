@@ -11,3 +11,5 @@ All notable changes to this project are documented in this file.
 - Asynchronous PDF generation with webhook delivery.
 - Template ID and JSON template data support for incoming workflow items.
 - n8n node-picker metadata and Pritset API documentation links.
+- Public npm access metadata for provenance-enabled first publication.
+- Repeatable clean builds that always emit node and credential files.
