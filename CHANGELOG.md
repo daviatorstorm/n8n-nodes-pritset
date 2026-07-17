@@ -2,6 +2,12 @@
 
 All notable changes to this project are documented in this file.
 
+## 0.1.3 - 2026-07-17
+
+### Fixed
+
+- Replaced scaffold placeholder documentation links with the public Pritset node repository URLs.
+
 ## 0.1.2 - 2026-07-17
 
 ### Fixed
