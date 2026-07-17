@@ -2,6 +2,12 @@
 
 All notable changes to this project are documented in this file.
 
+## 0.1.2 - 2026-07-17
+
+### Fixed
+
+- Renamed the Trusted Publishing workflow to the Creator Portal-required `publish.yml` filename.
+
 ## 0.1.1 - 2026-07-17
 
 ### Fixed
