@@ -1,0 +1,22 @@
+{
+	"node": "n8n-nodes-pritset",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Development",
+		"Developer Tools"
+	],
+	"description": "n8n community node for generating PDFs from Pritset templates in direct or webhook mode",
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/org/repo?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/org/repo?tab=readme-ov-file"
+			}
+		]
+	}
+}
