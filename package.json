@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-pritset",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Generate PDFs from Pritset templates in n8n using direct download or webhook delivery",
   "license": "MIT",
   "homepage": "https://github.com/daviatorstorm/n8n-nodes-pritset#readme",

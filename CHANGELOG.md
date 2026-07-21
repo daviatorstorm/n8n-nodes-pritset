@@ -2,6 +2,14 @@
 
 All notable changes to this project are documented in this file.
 
+## 0.1.4 - 2026-07-21
+
+### Fixed
+
+- Removed the unsupported `description` field from the node codex metadata.
+- Updated the codex node identifier to `n8n-nodes-pritset.pritset`.
+- Removed the unsupported `Developer Tools` codex category.
+
 ## 0.1.3 - 2026-07-17
 
 ### Fixed

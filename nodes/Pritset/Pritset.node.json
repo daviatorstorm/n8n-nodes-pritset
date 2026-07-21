@@ -1,12 +1,10 @@
 {
-	"node": "n8n-nodes-pritset",
+	"node": "n8n-nodes-pritset.pritset",
 	"nodeVersion": "1.0",
 	"codexVersion": "1.0",
 	"categories": [
-		"Development",
-		"Developer Tools"
+		"Development"
 	],
-	"description": "n8n community node for generating PDFs from Pritset templates in direct or webhook mode",
 	"resources": {
 		"credentialDocumentation": [
 			{
